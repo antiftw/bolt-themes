@@ -1,13 +1,7 @@
-Bolt 4 - Base-2021 theme
+AntiFTW theme
 ========================
 
-This is the base theme that comes with the installation of Bolt 5.
-
-Bolt CMS is an open source, adaptable platform for building and running modern
-websites. Built on PHP, Symfony and more. [Read the site](https://boltcms.io)
-for more info.
-
-To check out Bolt and set up your first Bolt installation, read [Installing Bolt][installation].
+This is an extended BoltCMS theme for the AntiFTW.nl website.
 
 ---
 
