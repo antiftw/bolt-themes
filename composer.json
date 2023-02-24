@@ -1,8 +1,8 @@
 {
-    "name": "bolt/themes",
-    "description": "🎨 Starter themes for Bolt",
+    "name": "antiftw/bolt-themes",
+    "description": "AntiFTW Fork of bolt/themes",
     "type": "bolt-theme",
-    "homepage": "https://boltcms.io",
+    "homepage": "https://antiftw.nl",
     "keywords": [
         "CMS",
         "Twig"
@@ -24,7 +24,8 @@
         "themes": [
             "skeleton",
             "base-2018",
-            "base-2021"
+            "base-2021",
+            "antiftw"
         ]
     }
 }
